@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "ff16",
+      "code": "",
+      "name": "Dương Văn Dự",
+      "birthday": "2003-10-28",
+      "mobile": "0332625935",
+      "hometown": "Tuyen Quang"
+    },
+    {
+      "id": "3083",
+      "code": "",
+      "name": "Đinh Văn Toàn",
+      "birthday": "2003-02-07",
+      "mobile": "0463737333",
+      "hometown": "Thái Bình"
+    },
+    {
+      "id": "6292",
+      "code": "",
+      "name": "Nguyễn Viết Văn ",
+      "birthday": "2004-05-05",
+      "mobile": "0975775777",
+      "hometown": "Hải Dương"
+    },
+    {
+      "code": "8417",
+      "name": "Hoàng Đình",
+      "birthday": "2003-11-11",
+      "mobile": "0974335226",
+      "hometown": "Hòa Bình",
+      "id": "8417"
+    }
+  ]
+}
